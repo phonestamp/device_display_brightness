@@ -27,6 +27,7 @@ apply plugin: 'kotlin-android'
 
 
 android {
+    namespace "com.sominviacheslav.device_display_brightness"
     compileSdkVersion 33
 
     sourceSets {
